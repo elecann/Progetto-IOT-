@@ -1,7 +1,6 @@
-# Simulatore-IOT Topic 5: Bitcoin Mining ed Energie Rinnovabili
-Progetto di Cannata e Idonea
+Progetto di Cannata Elena e Idonea Marco
 
-# Simulatore: Bitcoin Mining ed Energie Rinnovabili
+# Simulatore Topic 5: Bitcoin Mining ed Energie Rinnovabili
 
 ## 📌 Descrizione del Progetto
 
