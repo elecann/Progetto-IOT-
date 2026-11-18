@@ -164,5 +164,3 @@ La validazione del simulatore avviene su tre livelli:
 
 Progetto IOT — Bitcoin Mining ed Energie Rinnovabili.
 ```
-
----
