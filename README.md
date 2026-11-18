@@ -58,6 +58,8 @@ Il simulatore si concentra sulla **Tabella 1** (scenari senza storage) e permett
 5. Verranno generati due file immagine:
    - `risultati_simulazione.png`: confronto emissioni e mix di generazione.
    - `sensibilita_domanda.png`: esperimento extra sulla sensibilità alla domanda dei miner.
+   <img width="1800" height="750" alt="risultati_simulazione" src="https://github.com/user-attachments/assets/7bf9e655-a22e-48e6-b2a6-375fb1b9c868" />
+
 
 ---
 
